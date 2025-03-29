@@ -1,0 +1,2 @@
+{"level":"info","message":"Addition: 5 + 0 = 5","service":"calculator-microservice"}
+{"level":"error","message":"Cannot divide by zero","service":"calculator-microservice"}
